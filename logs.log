@@ -1,2 +1,109 @@
 2023-02-24T17:56:39: copy new files
 2023-02-24T17:56:39: push to gitub
+2023-02-24T17:56:40: [main 455b382] Fri Feb 24 05:56:40 PM +06 2023
+2023-02-24T17:56:40:  99 files changed, 4430 insertions(+)
+2023-02-24T17:56:40:  create mode 100755 RunSchedule.sh
+2023-02-24T17:56:40:  create mode 100644 docs/Arch install.md
+2023-02-24T17:56:40:  create mode 100644 docs/Cronjob.md
+2023-02-24T17:56:40:  create mode 100644 docs/Docs.md
+2023-02-24T17:56:40:  create mode 100644 docs/Fix filesystem.md
+2023-02-24T17:56:40:  create mode 100644 docs/Git fixes.md
+2023-02-24T17:56:40:  create mode 100644 docs/Git.md
+2023-02-24T17:56:40:  create mode 100644 docs/Linux Dirs.md
+2023-02-24T17:56:40:  create mode 100644 docs/Linux user.md
+2023-02-24T17:56:40:  create mode 100644 docs/LiveSync.md
+2023-02-24T17:56:40:  create mode 100644 docs/Pacman.md
+2023-02-24T17:56:40:  create mode 100644 docs/Phaser js.md
+2023-02-24T17:56:40:  create mode 100644 docs/TailScale.md
+2023-02-24T17:56:40:  create mode 100644 docs/Useful Scripts.md
+2023-02-24T17:56:40:  create mode 100644 docs/Vim.md
+2023-02-24T17:56:40:  create mode 100644 docs/Web dev.md
+2023-02-24T17:56:40:  create mode 100644 docs/_index.md
+2023-02-24T17:56:40:  create mode 100644 docs/android doc/AboveKeyborad.md
+2023-02-24T17:56:40:  create mode 100644 docs/android doc/ActivityAndNavigation.md
+2023-02-24T17:56:40:  create mode 100644 docs/android doc/Android Doc.md
+2023-02-24T17:56:40:  create mode 100644 docs/android doc/Android Opensource repos.md
+2023-02-24T17:56:40:  create mode 100644 docs/android doc/AppUsageData.md
+2023-02-24T17:56:40:  create mode 100644 docs/android doc/Auto view binding.md
+2023-02-24T17:56:40:  create mode 100644 docs/android doc/Basic activity with viewbind.md
+2023-02-24T17:56:40:  create mode 100644 docs/android doc/Bottom dialog template.md
+2023-02-24T17:56:40:  create mode 100644 docs/android doc/Bottom navigation.md
+2023-02-24T17:56:40:  create mode 100644 docs/android doc/BottomNavStyle.md
+2023-02-24T17:56:40:  create mode 100644 docs/android doc/Bottomsheet navigation.md
+2023-02-24T17:56:40:  create mode 100644 docs/android doc/CallLogs.md
+2023-02-24T17:56:40:  create mode 100644 docs/android doc/ChatLayout.md
+2023-02-24T17:56:40:  create mode 100644 docs/android doc/Common function for navigation.md
+2023-02-24T17:56:40:  create mode 100644 docs/android doc/Common libraries gradle.md
+2023-02-24T17:56:40:  create mode 100644 docs/android doc/CommonFileFunction.md
+2023-02-24T17:56:40:  create mode 100644 docs/android doc/CreateAccount.md
+2023-02-24T17:56:40:  create mode 100644 docs/android doc/CustomDialog.md
+2023-02-24T17:56:40:  create mode 100644 docs/android doc/CustomHashMap.md
+2023-02-24T17:56:40:  create mode 100644 docs/android doc/DrawableCollection.md
+2023-02-24T17:56:40:  create mode 100644 docs/android doc/EditProfile.md
+2023-02-24T17:56:40:  create mode 100644 docs/android doc/EditText.md
+2023-02-24T17:56:40:  create mode 100644 docs/android doc/EditTextBackground.md
+2023-02-24T17:56:40:  create mode 100644 docs/android doc/FileAndStorage.md
+2023-02-24T17:56:40:  create mode 100644 docs/android doc/Firebase login.md
+2023-02-24T17:56:40:  create mode 100644 docs/android doc/FirebaseNotification.md
+2023-02-24T17:56:40:  create mode 100644 docs/android doc/Firestore.md
+2023-02-24T17:56:40:  create mode 100644 docs/android doc/ForegroundService.md
+2023-02-24T17:56:40:  create mode 100644 docs/android doc/Formate DateAndTime.md
+2023-02-24T17:56:40:  create mode 100644 docs/android doc/Fragment.md
+2023-02-24T17:56:40:  create mode 100644 docs/android doc/Get address.md
+2023-02-24T17:56:40:  create mode 100644 docs/android doc/Google Map.md
+2023-02-24T17:56:40:  create mode 100644 docs/android doc/Google login.md
+2023-02-24T17:56:40:  create mode 100644 docs/android doc/GradiantBackground.md
+2023-02-24T17:56:40:  create mode 100644 docs/android doc/Image with text layout list.md
+2023-02-24T17:56:40:  create mode 100644 docs/android doc/Images.md
+2023-02-24T17:56:40:  create mode 100644 docs/android doc/Internet.md
+2023-02-24T17:56:40:  create mode 100644 docs/android doc/IsLocationEnabled.md
+2023-02-24T17:56:40:  create mode 100644 docs/android doc/JetpackLiveData.md
+2023-02-24T17:56:40:  create mode 100644 docs/android doc/JetpackNavigation.md
+2023-02-24T17:56:40:  create mode 100644 docs/android doc/JetpackOpenActivityForResult.md
+2023-02-24T17:56:40:  create mode 100644 docs/android doc/Location  update custom class.md
+2023-02-24T17:56:40:  create mode 100644 docs/android doc/LocationPermission.md
+2023-02-24T17:56:40:  create mode 100644 docs/android doc/Login.md
+2023-02-24T17:56:40:  create mode 100644 docs/android doc/Notification anatomy.md
+2023-02-24T17:56:40:  create mode 100644 docs/android doc/PathUtil.md
+2023-02-24T17:56:40:  create mode 100644 docs/android doc/Permissions.md
+2023-02-24T17:56:40:  create mode 100644 docs/android doc/Pick files with intents.md
+2023-02-24T17:56:40:  create mode 100644 docs/android doc/ProfileFragment.md
+2023-02-24T17:56:40:  create mode 100644 docs/android doc/ProfileLayout.md
+2023-02-24T17:56:40:  create mode 100644 docs/android doc/Progressbar.md
+2023-02-24T17:56:40:  create mode 100644 docs/android doc/ProgressbarShapeBackground.md
+2023-02-24T17:56:40:  create mode 100644 docs/android doc/Read And Write Files.md
+2023-02-24T17:56:40:  create mode 100644 docs/android doc/Recyclerview.md
+2023-02-24T17:56:40:  create mode 100644 docs/android doc/RemoveAllNotification.md
+2023-02-24T17:56:40:  create mode 100644 docs/android doc/Request storage permission.md
+2023-02-24T17:56:40:  create mode 100644 docs/android doc/ResetPassword.md
+2023-02-24T17:56:40:  create mode 100644 docs/android doc/Retrofit.md
+2023-02-24T17:56:40:  create mode 100644 docs/android doc/Ripple.md
+2023-02-24T17:56:40:  create mode 100644 docs/android doc/RoomDatabase.md
+2023-02-24T17:56:40:  create mode 100644 docs/android doc/RoundImage.md
+2023-02-24T17:56:40:  create mode 100644 docs/android doc/Search.md
+2023-02-24T17:56:40:  create mode 100644 docs/android doc/Service.md
+2023-02-24T17:56:40:  create mode 100644 docs/android doc/SetTheme.md
+2023-02-24T17:56:40:  create mode 100644 docs/android doc/Show Notification.md
+2023-02-24T17:56:40:  create mode 100644 docs/android doc/Single instance.md
+2023-02-24T17:56:40:  create mode 100644 docs/android doc/Splash Screen.md
+2023-02-24T17:56:40:  create mode 100644 docs/android doc/Swipe to refresh.md
+2023-02-24T17:56:40:  create mode 100644 docs/android doc/Tab layout navigation.md
+2023-02-24T17:56:40:  create mode 100644 docs/android doc/Thread.md
+2023-02-24T17:56:40:  create mode 100644 docs/android doc/Webview.md
+2023-02-24T17:56:40:  create mode 100644 docs/android doc/android_developer_roadmap.png
+2023-02-24T17:56:40:  create mode 100644 docs/encoding.md
+2023-02-24T17:56:40:  create mode 100644 docs/kde connect.md
+2023-02-24T17:56:40:  create mode 100644 docs/macos move window command.md
+2023-02-24T17:56:40:  create mode 100644 docs/media/.DS_Store
+2023-02-24T17:56:40:  create mode 100644 docs/media/croncheatsheet.jpeg
+2023-02-24T17:56:40:  create mode 100644 docs/media/notification-callouts_2x.png
+2023-02-24T17:56:40:  create mode 100644 docs/pm2.md
+2023-02-24T17:56:40:  create mode 100644 docs/termux-service.md
+2023-02-24T17:56:40:  create mode 100644 ecosystem.config.js
+2023-02-24T17:56:40:  create mode 100644 logs.log
+2023-02-24T17:56:43: remote: This repository moved. Please use the new location:        
+2023-02-24T17:56:43: remote:   https://github.com/echo-saurav/obsidianDoc.git        
+2023-02-24T17:56:43: To https://github.com/echo-saurav/obsidian
+2023-02-24T17:56:43:    adab7ff..455b382  main -> main
+2023-02-24T17:56:43: branch 'main' set up to track 'origin/main'.
+2023-02-24T17:56:43: success
