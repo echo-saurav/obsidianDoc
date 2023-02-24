@@ -11,3 +11,9 @@ plugins:
   - jekyll-default-layout
 
 
+title: echo-docs
+description: My knowledge base
+theme: just-the-docs
+
+url: https://echo-saurav.github.io/obsidian
+
