@@ -10,9 +10,8 @@ link:
 status: ungoing
 
 layout: default
-title: Buttons
-parent: UI Components
-nav_order: 2
+# title: Buttons
+parent: Docs
 
 ---
 ## Editable web 
