@@ -8,6 +8,13 @@ img:
 desc: 
 link: 
 status: ungoing
+
+layout: default
+title: UI Components
+nav_order: 2
+has_children: true
+
+
 ---
 ## Editable web 
 - [givanz/VvvebJs: Drag and drop website builder javascript library.](https://github.com/givanz/VvvebJs) 
