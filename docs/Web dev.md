@@ -10,10 +10,9 @@ link:
 status: ungoing
 
 layout: default
-title: UI Components
+title: Buttons
+parent: UI Components
 nav_order: 2
-has_children: true
-
 
 ---
 ## Editable web 
