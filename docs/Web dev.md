@@ -8,11 +8,6 @@ img:
 desc: 
 link: 
 status: ungoing
-
-layout: default
-title: Webdev
-# parent: Docs
-
 ---
 ## Editable web 
 - [givanz/VvvebJs: Drag and drop website builder javascript library.](https://github.com/givanz/VvvebJs) 
