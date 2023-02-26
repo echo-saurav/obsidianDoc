@@ -3,6 +3,8 @@ layout: default
 parent: android doc
 title: ResetPassword
 ---
+# ResetPassword
+
 ### Xml
 ```java
 <?xml version="1.0" encoding="utf-8"?>

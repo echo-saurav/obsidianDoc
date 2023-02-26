@@ -3,6 +3,8 @@ layout: default
 parent: android doc
 title: FileAndStorage
 ---
+# FileAndStorage
+
 ### Type of dir
 ```java 
   getFilesDir(); // for data dir

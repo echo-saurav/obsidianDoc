@@ -3,6 +3,7 @@ layout: default
 parent: android doc
 title: Internet
 ---
+# Internet
 ```java 
       private boolean isNetworkAvailable() {
         ConnectivityManager connectivityManager

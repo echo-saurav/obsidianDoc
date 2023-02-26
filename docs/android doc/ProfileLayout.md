@@ -3,6 +3,8 @@ layout: default
 parent: android doc
 title: ProfileLayout
 ---
+# ProfileLayout
+
 ```java
 <?xml version="1.0" encoding="utf-8"?>
 <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"

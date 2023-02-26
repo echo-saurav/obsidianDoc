@@ -1,5 +1,5 @@
 ---
+has_children: true
 layout: default
-parent: ''
 title: android doc
 ---

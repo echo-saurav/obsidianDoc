@@ -3,6 +3,8 @@ layout: default
 parent: android doc
 title: ProfileFragment
 ---
+# ProfileFragment
+
 ```java 
   public class ProfileFragment extends Fragment {
 

@@ -3,6 +3,7 @@ layout: default
 parent: android doc
 title: Webview
 ---
+# Webview
 ### Simple webview
 ```java 
 		webView=findViewById(R.id.web_view);

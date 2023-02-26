@@ -3,6 +3,7 @@ layout: default
 parent: android doc
 title: CustomDialog
 ---
+# CustomDialog
 ## Custom dialog
 ```java 
   public class CustomDialog extends DialogFragment {

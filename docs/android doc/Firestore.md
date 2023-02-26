@@ -3,6 +3,7 @@ layout: default
 parent: android doc
 title: Firestore
 ---
+# Firestore
 ## Value type ordering
 
 When a query involves a field with values of mixed types, Cloud Firestore uses a deterministic ordering based on the internal representations. The following list shows the order:

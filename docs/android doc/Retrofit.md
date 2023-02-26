@@ -3,6 +3,8 @@ layout: default
 parent: android doc
 title: Retrofit
 ---
+# Retrofit
+
 ### Retrofit class
 ```java 
 public class RemoteRepository {

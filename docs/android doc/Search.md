@@ -3,6 +3,7 @@ layout: default
 parent: android doc
 title: Search
 ---
+# Search
 ### Local Search fragment
 ```java 
   public class SearchFragment extends Fragment {

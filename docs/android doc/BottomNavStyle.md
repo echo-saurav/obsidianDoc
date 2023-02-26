@@ -3,6 +3,8 @@ layout: default
 parent: android doc
 title: BottomNavStyle
 ---
+# BottomNavStyle
+
 ### Bottom nav style
 ```xml 
     <com.google.android.material.bottomnavigation.BottomNavigationView

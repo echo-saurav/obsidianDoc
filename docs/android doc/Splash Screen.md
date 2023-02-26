@@ -3,6 +3,7 @@ layout: default
 parent: android doc
 title: Splash Screen
 ---
+# Splash Screen
 # App Start
 ### Splash screen background
 ```java

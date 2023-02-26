@@ -3,6 +3,8 @@ layout: default
 parent: android doc
 title: Single instance
 ---
+# Single instance
+
 ## Single instance of login info
 
 ```java

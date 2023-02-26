@@ -3,6 +3,8 @@ layout: default
 parent: android doc
 title: LocationPermission
 ---
+# LocationPermission
+
 ```java 
     private int REQUEST_CODE = 2021;
 

@@ -3,6 +3,7 @@ layout: default
 parent: android doc
 title: Google Map
 ---
+# Google Map
 ### Map fragment
 ```java 
   public class NewMap extends SupportMapFragment implements OnMapReadyCallback {

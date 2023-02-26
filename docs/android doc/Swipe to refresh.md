@@ -3,6 +3,7 @@ layout: default
 parent: android doc
 title: Swipe to refresh
 ---
+# Swipe to refresh
 ### Dependency
 ```
 	implementation "androidx.swiperefreshlayout:swiperefreshlayout:1.1.0"

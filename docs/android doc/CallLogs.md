@@ -3,6 +3,9 @@ layout: default
 parent: android doc
 title: CallLogs
 ---
+# CallLogs
+
+
 ```java 
   public class MyCallLog {
     CallsProvider callsProvider;

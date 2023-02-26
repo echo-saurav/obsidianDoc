@@ -2,6 +2,7 @@
 layout: default
 title: Arch install
 ---
+# Arch install
 #undone
 
 # basic

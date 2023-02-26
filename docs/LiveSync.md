@@ -2,6 +2,7 @@
 layout: default
 title: LiveSync
 ---
+# LiveSync
 # Live Sync Setup
 - Enable couchDb
 - Make sure to make a database on couch

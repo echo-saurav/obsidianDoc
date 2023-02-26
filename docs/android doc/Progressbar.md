@@ -3,6 +3,7 @@ layout: default
 parent: android doc
 title: Progressbar
 ---
+# Progressbar
 ```java 
   		ProgressDialog progressDialog = new ProgressDialog(this);
         progressDialog.setTitle("Fetching data");

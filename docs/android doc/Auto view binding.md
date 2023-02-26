@@ -4,6 +4,7 @@ parent: android doc
 title: Auto view binding
 ---
 # Auto view binding
+# Auto view binding
 Build.gradle
 ```gradle 
   android {

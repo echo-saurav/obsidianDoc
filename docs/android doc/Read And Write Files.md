@@ -3,6 +3,7 @@ layout: default
 parent: android doc
 title: Read And Write Files
 ---
+# Read And Write Files
 ### Get file content
 ```java 
       @Override

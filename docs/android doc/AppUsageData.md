@@ -3,6 +3,9 @@ layout: default
 parent: android doc
 title: AppUsageData
 ---
+# AppUsageData
+
+
 ```java
   public class AppUsages {
 

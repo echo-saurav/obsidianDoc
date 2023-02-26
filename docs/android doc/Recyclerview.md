@@ -3,6 +3,9 @@ layout: default
 parent: android doc
 title: Recyclerview
 ---
+# Recyclerview
+
+
 ## Rcyclerview template
 ### Adapter
 ```java 

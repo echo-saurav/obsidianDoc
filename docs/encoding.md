@@ -2,6 +2,7 @@
 layout: default
 title: encoding
 ---
+# encoding
 ## convert to base64 any file
 ```bash
 base64 -w 0  input/file/path > output/file/path

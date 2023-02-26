@@ -3,6 +3,8 @@ layout: default
 parent: android doc
 title: FirebaseNotification
 ---
+# FirebaseNotification
+
 Make service to get notification from firebase
 ```java
 <service  

@@ -3,6 +3,7 @@ layout: default
 parent: android doc
 title: RoomDatabase
 ---
+# RoomDatabase
 ### Pojo class
 ```java 
 @Entity

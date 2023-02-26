@@ -3,6 +3,8 @@ layout: default
 parent: android doc
 title: Notification anatomy
 ---
+# Notification anatomy
+
 ## Notification anatomy
 
 The design of a notification is determined by system templates—your app simply defines the contents for each portion of the template. Some details of the notification appear only in the expanded view.

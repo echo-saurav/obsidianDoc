@@ -2,6 +2,9 @@
 layout: default
 title: Pacman
 ---
+# Pacman
+
+
 # Arch Linux How to Check Installed Packages
 
 If you are running Arch Linux you have, at some point, probably wanted a way to check which packages are installed on your system. As you would expect, it is very easy to generate a list of packages.

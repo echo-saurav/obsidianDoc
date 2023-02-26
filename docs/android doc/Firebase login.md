@@ -3,6 +3,8 @@ layout: default
 parent: android doc
 title: Firebase login
 ---
+# Firebase login
+
 # Firebase user management
 ### Create new user
 ```java 
