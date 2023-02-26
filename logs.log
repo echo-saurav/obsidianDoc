@@ -109,3 +109,12 @@
 2023-02-24T17:56:43: success
 2023-02-25T09:00:00: copy new files
 2023-02-25T09:00:00: push to gitub
+2023-02-25T09:00:00: [main 44bf134] Sat Feb 25 09:00:00 AM +06 2023
+2023-02-25T09:00:00:  3 files changed, 2 insertions(+), 16 deletions(-)
+2023-02-25T09:00:00:  delete mode 100644 Test.md
+2023-02-25T09:00:01: remote: This repository moved. Please use the new location:        
+2023-02-25T09:00:01: remote:   https://github.com/echo-saurav/obsidianDoc.git        
+2023-02-25T09:00:02: To https://github.com/echo-saurav/obsidian
+2023-02-25T09:00:02:    24f4770..44bf134  main -> main
+2023-02-25T09:00:02: branch 'main' set up to track 'origin/main'.
+2023-02-25T09:00:02: success

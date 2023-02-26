@@ -1,3 +1,8 @@
+---
+layout: default
+parent: android doc
+title: Common libraries gradle
+---
 
 ### picasso lib
 ```

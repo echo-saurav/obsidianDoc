@@ -1,3 +1,8 @@
+---
+layout: default
+parent: android doc
+title: GradiantBackground
+---
 ```java 
 <?xml version="1.0" encoding="utf-8"?>
 <shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle" >

@@ -1,3 +1,7 @@
+---
+layout: default
+title: Git fixes
+---
 ## How do i fix git merge
 - Check all conflict files via ```git status```
 - Fix all the file to fix conflict 

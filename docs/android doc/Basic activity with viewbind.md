@@ -1,3 +1,8 @@
+---
+layout: default
+parent: android doc
+title: Basic activity with viewbind
+---
 # Basic activity with viewbind
 ```java 
 public class MainActivity extends AppCompatActivity {

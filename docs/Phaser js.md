@@ -1,3 +1,7 @@
+---
+layout: default
+title: Phaser js
+---
 
 
 ## Learning links

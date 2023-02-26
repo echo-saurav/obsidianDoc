@@ -1,9 +1,7 @@
 ---
-
-mindmap-plugin: basic
-
+layout: default
+title: Linux Dirs
 ---
-
 - [ ] convert this to excalidraw drawing #todo 
 
 # Linux Dir structure . for more info [Filesystem Hierarchy Standard](https://refspecs.linuxfoundation.org/FHS_3.0/fhs/index.html) #linux

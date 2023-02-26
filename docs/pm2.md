@@ -1,15 +1,7 @@
 ---
-aliases: 
-tags: [ ] 
-cssclass: 
-obsidianUIMode: source
-obsidianEditingMode: live
-img: 
-desc: 
-link: 
-status: ungoing
+layout: default
+title: pm2
 ---
-
 ## Gen config file
 
 ```bash

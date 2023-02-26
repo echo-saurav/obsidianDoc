@@ -1,3 +1,8 @@
+---
+layout: default
+parent: android doc
+title: IsLocationEnabled
+---
 
 ```java 
       boolean checkGpsAndInternet() {

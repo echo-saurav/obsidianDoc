@@ -1,7 +1,7 @@
 ---
-aliases: user
+layout: default
+title: Linux user
 ---
-
 #linux 
 
 # Create new user with home dir

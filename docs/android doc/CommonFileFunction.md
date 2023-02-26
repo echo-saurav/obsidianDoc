@@ -1,3 +1,8 @@
+---
+layout: default
+parent: android doc
+title: CommonFileFunction
+---
 ```java 
       public static String getStringFromInputStream(InputStream stream) throws IOException {
         int n = 0;

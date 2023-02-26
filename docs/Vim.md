@@ -1,6 +1,6 @@
 ---
-aliases:
-tags:
+layout: default
+title: Vim
 ---
 # Some command 
 ### remove 5 char from every line

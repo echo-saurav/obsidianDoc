@@ -1,3 +1,8 @@
+---
+layout: default
+parent: android doc
+title: Bottom dialog template
+---
 ## Bottom dialog template
 ### Code
 ```java 

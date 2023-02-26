@@ -1,3 +1,7 @@
+---
+layout: default
+title: Pacman
+---
 
 
 # Arch Linux How to Check Installed Packages

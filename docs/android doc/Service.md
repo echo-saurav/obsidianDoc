@@ -1,3 +1,8 @@
+---
+layout: default
+parent: android doc
+title: Service
+---
 # Service
 ```java 
   public class BackgroundTask extends Service {

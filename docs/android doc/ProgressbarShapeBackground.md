@@ -1,3 +1,8 @@
+---
+layout: default
+parent: android doc
+title: ProgressbarShapeBackground
+---
 ```java 
   <?xml version="1.0" encoding="utf-8"?>
 <shape android:innerRadiusRatio="2.3"

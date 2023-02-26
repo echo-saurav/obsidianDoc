@@ -1,3 +1,8 @@
+---
+layout: default
+parent: android doc
+title: CustomDialog
+---
 ## Custom dialog
 ```java 
   public class CustomDialog extends DialogFragment {

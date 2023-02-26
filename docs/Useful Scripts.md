@@ -1,7 +1,7 @@
 ---
-alias: scripts
+layout: default
+title: Useful Scripts
 ---
-
 #linux 
 
 

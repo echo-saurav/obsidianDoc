@@ -1,3 +1,8 @@
+---
+layout: default
+parent: android doc
+title: Internet
+---
 ```java 
       private boolean isNetworkAvailable() {
         ConnectivityManager connectivityManager

@@ -1,10 +1,7 @@
 ---
-aliases:
-tags:
-cssclass:
-desc:
+layout: default
+title: Arch install
 ---
-
 #undone
 
 # basic

@@ -1,3 +1,8 @@
+---
+layout: default
+parent: android doc
+title: Fragment
+---
 # With Viewbinding
 ```java 
 class HomeFragment extends Fragment {

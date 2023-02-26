@@ -1,3 +1,8 @@
+---
+layout: default
+parent: android doc
+title: AboveKeyborad
+---
 ### for activity
 
 add this to manifest -> activity

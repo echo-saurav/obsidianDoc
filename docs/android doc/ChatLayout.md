@@ -1,3 +1,8 @@
+---
+layout: default
+parent: android doc
+title: ChatLayout
+---
 
 This is for reverse chat layout recycler view
 ```java 

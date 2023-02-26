@@ -1,3 +1,8 @@
+---
+layout: default
+parent: android doc
+title: Auto view binding
+---
 # Auto view binding
 Build.gradle
 ```gradle 

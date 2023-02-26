@@ -1,3 +1,8 @@
+---
+layout: default
+parent: android doc
+title: JetpackLiveData
+---
 ## Example
 ```java 
   public class MainLiveData extends ViewModel {

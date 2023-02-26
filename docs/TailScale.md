@@ -1,3 +1,7 @@
+---
+layout: default
+title: TailScale
+---
 # How it works 
 Its a VPN service that connect my local network [dashboard](https://login.tailscale.com/admin/machines)
 - Start tailnet service to server

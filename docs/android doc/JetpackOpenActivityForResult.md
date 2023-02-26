@@ -1,3 +1,8 @@
+---
+layout: default
+parent: android doc
+title: JetpackOpenActivityForResult
+---
 ## Open activity for result
 ```java 
   // You can do the assignment inside onAttach or onCreate, i.e, before the activity is displayed

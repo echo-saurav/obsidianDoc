@@ -1,13 +1,6 @@
 ---
-aliases: 
-tags: [ ] 
-cssclass: 
-obsidianUIMode: source
-obsidianEditingMode: live
-img: 
-desc: 
-link: 
-status: ungoing
+layout: default
+title: Web dev
 ---
 ## Editable web 
 - [givanz/VvvebJs: Drag and drop website builder javascript library.](https://github.com/givanz/VvvebJs) 

@@ -1,3 +1,7 @@
+---
+layout: default
+title: macos move window command
+---
 
 From Terminal:
 

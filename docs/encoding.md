@@ -1,8 +1,7 @@
 ---
-aliases: "font encoding"
+layout: default
+title: encoding
 ---
-
-
 ## convert to base64 any file
 ```bash
 base64 -w 0  input/file/path > output/file/path

@@ -1,3 +1,8 @@
+---
+layout: default
+parent: android doc
+title: Image with text layout list
+---
 
 # Image with text list
 ```java

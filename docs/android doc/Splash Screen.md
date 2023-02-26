@@ -1,3 +1,8 @@
+---
+layout: default
+parent: android doc
+title: Splash Screen
+---
 # App Start
 ### Splash screen background
 ```java

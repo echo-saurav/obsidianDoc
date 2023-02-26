@@ -1,3 +1,7 @@
+---
+layout: default
+title: kde connect
+---
 List all devices
 ```bash
 kdeconnect-cli --list-devices
