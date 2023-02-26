@@ -5,6 +5,30 @@ import yaml
 directory = './docs'
 layout = "default"
 
+
+def addIndex(filename,title,parent):
+    default_frontmatter = {
+        'layout': layout,
+        'title': title,
+        'parent': parent
+    }
+
+    try:
+        # open the file for writing, but raise an error if it already exists
+        with open(filename, "x") as f:
+            # write some data to the file
+            # f.write("This will overwrite the file!")
+            f.write('---\n')
+            yaml.dump(default_frontmatter, f, default_flow_style=False)
+            f.write('---\n')
+
+    except FileExistsError:
+        # if the file already exists, open it for writing instead
+        with open(filename, "w") as f:
+            # write some data to the file
+            f.write("This will overwrite the file!")
+
+
 def readOldYml(path):
     # Read the existing YAML front matter, if any
     with open(path, 'r') as f:
@@ -12,13 +36,14 @@ def readOldYml(path):
         try:
             existing_front_matter = yaml.safe_load(
                 content.split('---')[1])
-            print(f"path:{path} yml:{existing_front_matter}")                
-            return existing_front_matter,content
+            print(f"path:{path} yml:{existing_front_matter}")
+            return existing_front_matter, content
         except (IndexError, yaml.parser.ParserError):
             existing_front_matter = {}
-            return existing_front_matter,content
+            return existing_front_matter, content
 
-def writeUpdatedYml(path,front_matter,existing_front_matter,content):
+
+def writeUpdatedYml(path, front_matter, existing_front_matter, content):
     # Write the updated front matter and content to the file
     with open(path, 'w') as f:
         f.write('---\n')
@@ -29,37 +54,39 @@ def writeUpdatedYml(path,front_matter,existing_front_matter,content):
         f.write(content)
 
 
-
-
 def print_directory_tree(path, prefix=''):
-    """
-    Prints the directory tree structure starting from the given path.
-    """
-    # Print the current directory name
-    # print(prefix + os.path.basename(path) + '/')
-    
     # Get the list of files and directories in the current directory
     files = os.listdir(path)
-    
+
     # Iterate over the files and directories and print them
     for file in files:
         filepath = os.path.join(path, file)
         if os.path.isdir(filepath):
             # Recursive call to print the subdirectory tree
             print_directory_tree(filepath, prefix=prefix + '  ')
+            base_name, extension = os.path.splitext(file)
+            # remove the extension
+            title = base_name
+            if os.path.basename(path) != "docs":
+                parent = os.path.basename(path)
+            else:
+                parent = ""
+
+            addIndex(filepath+"/index.md", title, parent)
         else:
             if file.endswith(".md"):
-                print(f"File: {file} : Parent:  {os.path.basename(path)} , FullPath:{path}")
-                existing_front_matter,content = readOldYml(path+"/"+file)
+                print(
+                    f"File: {file} : Parent:  {os.path.basename(path)} , FullPath:{path}")
+                existing_front_matter, content = readOldYml(path+"/"+file)
                 # get the base name and extension of the file
                 base_name, extension = os.path.splitext(file)
 
                 # remove the extension
                 title = base_name
-                if os.path.basename(path)!="docs":
+                if os.path.basename(path) != "docs":
                     parent = os.path.basename(path)
                 else:
-                    parent = ""    
+                    parent = ""
 
                 # Update the front matter fields
                 if (parent != ''):
@@ -73,13 +100,13 @@ def print_directory_tree(path, prefix=''):
                         'layout': layout,
                         'title': title,
                     }
-                writeUpdatedYml(path+"/"+file, front_matter, existing_front_matter,content)
+                writeUpdatedYml(path+"/"+file, front_matter,
+                                existing_front_matter, content)
             else:
-                print(f"{file}:not a md file")  
+                print(f"{file}:not a md file")
 
 
 print_directory_tree(directory)
-
 
 
 # # Loop over each file in the directory and its subdirectories
