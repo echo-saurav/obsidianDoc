@@ -3,7 +3,6 @@ layout: default
 parent: android doc
 title: Tab layout navigation
 ---
-
 # xml
 ```java
 <?xml version="1.0" encoding="utf-8"?>

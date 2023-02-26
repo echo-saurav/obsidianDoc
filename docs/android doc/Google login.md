@@ -3,7 +3,6 @@ layout: default
 parent: android doc
 title: Google login
 ---
-
 # Google login
 ### google login code
 

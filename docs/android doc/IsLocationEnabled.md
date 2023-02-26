@@ -3,7 +3,6 @@ layout: default
 parent: android doc
 title: IsLocationEnabled
 ---
-
 ```java 
       boolean checkGpsAndInternet() {
         LocationManager lm = (LocationManager) getSystemService(Context.LOCATION_SERVICE);

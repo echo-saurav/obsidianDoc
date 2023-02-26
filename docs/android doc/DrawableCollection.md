@@ -3,8 +3,6 @@ layout: default
 parent: android doc
 title: DrawableCollection
 ---
-
-
 ### Round stroke 
 ```xml 
 <?xml version="1.0" encoding="utf-8"?>

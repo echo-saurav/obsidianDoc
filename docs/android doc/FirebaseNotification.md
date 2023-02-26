@@ -3,7 +3,6 @@ layout: default
 parent: android doc
 title: FirebaseNotification
 ---
-
 Make service to get notification from firebase
 ```java
 <service  

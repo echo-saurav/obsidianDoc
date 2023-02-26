@@ -3,7 +3,6 @@ layout: default
 parent: android doc
 title: Permissions
 ---
-
 ### Check permission
 ```java 
 if (checkSelfPermission(Manifest.permission.ACCESS_FINE_LOCATION) == PackageManager.PERMISSION_GRANTED) {

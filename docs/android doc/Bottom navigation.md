@@ -3,7 +3,6 @@ layout: default
 parent: android doc
 title: Bottom navigation
 ---
-
 # Bottom Navigation
 
 

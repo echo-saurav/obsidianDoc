@@ -3,7 +3,6 @@ layout: default
 parent: android doc
 title: JetpackNavigation
 ---
-
 ### Dependency
 ```gradle 
     def nav_version = "2.3.5"

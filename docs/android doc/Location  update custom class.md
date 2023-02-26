@@ -3,7 +3,6 @@ layout: default
 parent: android doc
 title: Location  update custom class
 ---
-
 # Location  update custom class 
 ```java 
 public class GetLocationUpdate {

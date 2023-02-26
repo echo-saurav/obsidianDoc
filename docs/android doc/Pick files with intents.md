@@ -3,7 +3,6 @@ layout: default
 parent: android doc
 title: Pick files with intents
 ---
-
 ## intent type
 ```java 
                 intent.setType("*/*");

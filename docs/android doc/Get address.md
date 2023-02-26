@@ -3,8 +3,6 @@ layout: default
 parent: android doc
 title: Get address
 ---
-
-
 ```java 
       String getAddress(double latitude,double longitude){
         Geocoder geocoder;

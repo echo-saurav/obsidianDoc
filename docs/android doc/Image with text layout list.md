@@ -3,7 +3,6 @@ layout: default
 parent: android doc
 title: Image with text layout list
 ---
-
 # Image with text list
 ```java
 <?xml version="1.0" encoding="utf-8"?>

@@ -3,7 +3,6 @@ layout: default
 parent: android doc
 title: Common function for navigation
 ---
-
 # Initial Fragment
 ```java 
  // initial fragment setup

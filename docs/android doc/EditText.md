@@ -3,8 +3,6 @@ layout: default
 parent: android doc
 title: EditText
 ---
-
-
 ### Text Suggestion
 ```java 
     String[] foods = getResources().getStringArray(R.array.food_item_list);

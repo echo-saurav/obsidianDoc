@@ -3,7 +3,6 @@ layout: default
 parent: android doc
 title: ForegroundService
 ---
-
 ```java 
     private void startForegroundService() {
         String channelName = "Tracking activity";

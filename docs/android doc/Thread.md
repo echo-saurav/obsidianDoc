@@ -3,7 +3,6 @@ layout: default
 parent: android doc
 title: Thread
 ---
-
 ```java 
         long milisec = 1000;
         Handler handler = new Handler();

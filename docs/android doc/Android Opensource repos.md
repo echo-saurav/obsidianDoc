@@ -3,7 +3,6 @@ layout: default
 parent: android doc
 title: Android Opensource repos
 ---
-
 # Opensource repo for learning 
 - [GitHub - android10/Android-CleanArchitecture: This is a sample app that is part of a series of blog posts I have written about how to architect an android application using Uncle Bob's clean architecture approach.](https://github.com/android10/Android-CleanArchitecture)
 - [GitHub - janishar/android-mvp-architecture: This repository contains a detailed sample app that implements MVP architecture using Dagger2, GreenDao, RxJava2, FastAndroidNetworking and PlaceholderView](https://github.com/janishar/android-mvp-architecture)

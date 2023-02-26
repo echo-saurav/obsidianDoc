@@ -3,7 +3,6 @@ layout: default
 parent: android doc
 title: Show Notification
 ---
-
 ```java 
       public void showNotification(Intent intent, String message, String description, int requestId) {
 

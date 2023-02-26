@@ -3,8 +3,6 @@ layout: default
 parent: android doc
 title: AppUsageData
 ---
-
-
 ```java
   public class AppUsages {
 

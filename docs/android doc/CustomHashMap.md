@@ -3,7 +3,6 @@ layout: default
 parent: android doc
 title: CustomHashMap
 ---
-
 ```java 
   public class CustomHashMap<S, V> {
     private String TAG = "CustomHashMap";

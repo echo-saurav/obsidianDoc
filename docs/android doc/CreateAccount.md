@@ -3,8 +3,7 @@ layout: default
 parent: android doc
 title: CreateAccount
 ---
-
- ### xml 
+### xml 
 ```java
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
