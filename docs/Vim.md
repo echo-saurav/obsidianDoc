@@ -12,5 +12,5 @@ title: Vim
 
 
 ## Cheatsheet
-![vim cheatsheet](media/vim%20cheatsheet.png)
+![vim cheatsheet](media/vim_cheatsheet.png)
 
