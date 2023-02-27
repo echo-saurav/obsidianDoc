@@ -6,7 +6,7 @@ rm -rf docs
 mkdir docs    
 cp -R ~/media/obsidian/Eternal/docs/*  docs/
 cp ~/media/obsidian/Eternal/docs/Home.md  index.md
-
+rm docs/Home.md
 # update file content
 python "./ymlPython.py"
 
