@@ -1170,3 +1170,9 @@
 2023-02-27T17:36:17: success
 2023-02-28T09:00:00: copy new files
 2023-02-28T09:00:03: push to gitub
+2023-02-28T09:00:04: [main 367ab2d] Tue Feb 28 09:00:03 AM +06 2023
+2023-02-28T09:00:04:  2 files changed, 3 insertions(+), 1 deletion(-)
+2023-02-28T09:00:14: fatal: unable to access 'https://github.com/echo-saurav/obsidian/': Could not resolve host: github.com
+2023-02-28T09:00:14: error
+2023-02-28T09:00:17: copy new files
+2023-02-28T09:00:17: push to gitub
