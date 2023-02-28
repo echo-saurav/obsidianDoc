@@ -5022,3 +5022,9 @@
 2023-02-28T11:20:50: error
 2023-02-28T11:20:54: copy new files
 2023-02-28T11:20:54: push to gitub
+2023-02-28T11:20:54: [main ec2fcec] Tue Feb 28 11:20:54 AM +06 2023
+2023-02-28T11:20:54:  1 file changed, 6 insertions(+)
+2023-02-28T11:21:04: fatal: unable to access 'https://github.com/echo-saurav/obsidian/': Could not resolve host: github.com
+2023-02-28T11:21:04: error
+2023-02-28T11:21:07: copy new files
+2023-02-28T11:21:07: push to gitub
