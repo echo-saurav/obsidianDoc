@@ -32,3 +32,21 @@ xmacroplay "$DISPLAY" < yourfile.txt
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
