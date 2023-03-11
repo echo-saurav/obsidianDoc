@@ -1,24 +1,2 @@
-2023-03-10T09:00:00: copy new files
-2023-03-10T09:00:04: push to gitub
-2023-03-10T09:00:04: [main bc5899f] Fri Mar 10 09:00:04 AM +06 2023
-2023-03-10T09:00:04:  3 files changed, 24 insertions(+), 36 deletions(-)
-2023-03-10T09:00:04:  delete mode 100644 logs__2023-03-09_00-00-00.log
-2023-03-10T09:00:04:  create mode 100644 logs__2023-03-10_00-00-00.log
-2023-03-10T09:00:06: remote: This repository moved. Please use the new location:        
-2023-03-10T09:00:06: remote:   https://github.com/echo-saurav/obsidianDoc.git        
-2023-03-10T09:00:06: To https://github.com/echo-saurav/obsidian
-2023-03-10T09:00:06:    128f3ca..bc5899f  main -> main
-2023-03-10T09:00:06: branch 'main' set up to track 'origin/main'.
-2023-03-10T09:00:06: success
-2023-03-10T10:22:16: copy new files
-2023-03-10T10:22:48: push to gitub
-2023-03-10T10:22:52: [main 7dad23b] Fri Mar 10 10:22:50 AM +06 2023
-2023-03-10T10:22:52:  1 file changed, 12 insertions(+)
-2023-03-10T10:22:53: remote: This repository moved. Please use the new location:        
-2023-03-10T10:22:53: remote:   https://github.com/echo-saurav/obsidianDoc.git        
-2023-03-10T10:22:54: To https://github.com/echo-saurav/obsidian
-2023-03-10T10:22:54:    bc5899f..7dad23b  main -> main
-2023-03-10T10:22:54: branch 'main' set up to track 'origin/main'.
-2023-03-10T10:22:54: success
-2023-03-10T17:00:00: copy new files
-2023-03-10T17:00:03: push to gitub
+2023-03-11T09:00:00: copy new files
+2023-03-11T09:00:06: push to gitub
