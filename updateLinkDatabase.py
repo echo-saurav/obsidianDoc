@@ -27,35 +27,42 @@ def find_urls_in_directory(dir_path):
                         url_text, url_link, *_ = url_match
 
                         tag_matches = re.findall(tag_pattern, contents)
-                        tags = ' '.join(tag_matches)
-                        urls.append((url_link, tags))
+                        # tags = ''.join(tag_matches)
+                        # print(type(tag_matches))
+                        urls.append((url_link, tag_matches))
 
     return urls
 
 
 # Call the function with the directory path as argument
-# urls = find_urls_in_directory(path)
+urls = find_urls_in_directory(path)
 
 # Print out all the URLs and their corresponding tags
 # for url, tags in urls:
 #     print(url, tags)
 
 
-url = 'http://192.168.0.120:8102/addlink'
-
-# for url, tags in urls:
-#     print(url, tags)
 api="http://192.168.0.120:8102/addlink"
-url="https://www.youtube.com"
-tags=["#one","#two"]
+# for url, tags in urls:
+for i, (url, tags) in enumerate(urls[:10]):    
+# url="https://www.youtube.com/watch?v=bVeOdNi6e-k"
+# tags=["#one","#two"]
 
-params ={'url':url,'tags':tags}
-print(params)
-# resp = requests.get(url=url, params=params)
-resp = requests.get(url=api,  json=params)
-# data = resp.json()  # Check the JSON Response Content documentation below
-print(f"Response content: {resp.content}")
-# print(f"Response JSON: {data}")
+    if isinstance(tags, list) and len(tags)>0:
+        params = {
+            'url':url,
+            'tags':tags
+        }
+    else:
+        print("not list")
+        params = {
+            'url':url,
+            'tags': [""]
+        }
+
+    print(params)
+    resp = requests.get(url=api,  json=params)
+    print(f"Response content: {resp.content}")
 
 
 
